@@ -1,0 +1,5 @@
+# (distance between sites), (causal latency for puts), (linearizable latency for puts)
+1 1 1 1 0.1 0.1 1
+50 1 1 50 0.1 0.1 50
+100 1 1 100 0.1 0.1 100
+200 1 1 200 0.1 0.1 200
